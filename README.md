@@ -5,4 +5,4 @@ Software per analizzare una serie di parentesi e visualizzare il prefisso corret
 - input: `(){[[()]}()`
 - output: `(){[[()]`
 
-***Motivazione**: l'ultima parentesi graffa non ha l'occorrenza aperta.*
+*__Motivazione__: l'ultima parentesi graffa non ha l'occorrenza aperta.*
