@@ -1,5 +1,6 @@
-#
-include < stdio.h > #include < stdlib.h > #define STEP_SIZE 16
+#include <stdio.h> 
+#include <stdlib.h> 
+#define STEP_SIZE 16
 
 char * read(int * );
 char * analyze(char * , int);
