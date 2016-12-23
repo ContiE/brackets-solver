@@ -1,5 +1,5 @@
 # brackets-solver
-Software per analizzare una serie di parentesi letta da tastiera senza conoscere preventivamente la dimensione e visualizzare il prefisso corretto più lungo.
+Software algoritmico per analizzare una serie di parentesi letta da tastiera senza conoscere preventivamente la dimensione e visualizzare il prefisso corretto più lungo.
 
 **Ad esempio**:
 - input: `(){[[()]}()`
