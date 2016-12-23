@@ -2,7 +2,7 @@
 Software per analizzare una serie di parentesi e visualizzare il prefisso corretto più lungo.
 
 **Ad esempio**:
-- *input*: `(){[[()]}()`
-- *output*: `(){[[()]`
+- input: `(){[[()]}()`
+- output: `(){[[()]`
 
-*Motivazione: l'ultima parentesi graffa non ha la corrispondente aperta.*
+***Motivazione**: l'ultima parentesi graffa non ha l'occorrenza aperta.*
